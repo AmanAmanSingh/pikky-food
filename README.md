@@ -32,7 +32,7 @@ Start the server
 
 ## Run With Docker
 
-By running below command Docker will automatically pull it. If any issues occur during the first run, please simply rerun the command again to resolve them.
+As I have published this on my Docker Hub account, So By running the below command will automatically pull the image. If any issues occur during the initial run, simply rerun the command to resolve them.
 
 ```bash
   docker run -it -p 8080:8080 amans7097/pikky-food-app
