@@ -38,6 +38,9 @@ As I have published this on my Docker Hub account, So By running the below comma
   docker run -it -p 8080:8080 amans7097/pikky-food-app
 ```
 
+## Tech Stack
+
+**Client:** React, Shadcn UI, TailwindCSS , typescript , docker.
 
 
 ## Support
