@@ -17,8 +17,6 @@ const useFlightUpdates = (): Flight[] => {
 		const intervalId = setTimeout(() => {
 			const updatedFlights = flights.map((flight) => {
 				if (flight.status === "Scheduled") {
-					// console.log("Scheduled")
-
 					return {
 						...flight,
 						status: status[genrateNumberBetweenZeroToTwo()],
@@ -26,8 +24,6 @@ const useFlightUpdates = (): Flight[] => {
 				}
 
 				if (flight.status === "In-flight") {
-					// console.log("flight")
-
 					return {
 						...flight,
 						status: status[genrateNumberBetweenZeroToTwo()],
@@ -35,8 +31,6 @@ const useFlightUpdates = (): Flight[] => {
 				}
 
 				if (flight.status === "Delayed") {
-					// console.log("Delayed")
-
 					return {
 						...flight,
 						status: status[genrateNumberBetweenZeroToTwo()],
