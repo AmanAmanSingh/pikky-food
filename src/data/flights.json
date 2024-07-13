@@ -1,0 +1,107 @@
+[
+  {
+    "flightNumber": "AA101",
+    "origin": "New York",
+    "destination": "Los Angeles",
+    "scheduledDeparture": "2024-07-12T08:00:00Z",
+    "status": "Scheduled"
+  },
+  {
+    "flightNumber": "BA202",
+    "origin": "London",
+    "destination": "New York",
+    "scheduledDeparture": "2024-07-12T09:00:00Z",
+    "status": "In-flight"
+  },
+  {
+    "flightNumber": "CA303",
+    "origin": "Beijing",
+    "destination": "San Francisco",
+    "scheduledDeparture": "2024-07-12T10:00:00Z",
+    "status": "Delayed"
+  },
+  {
+    "flightNumber": "DL404",
+    "origin": "Atlanta",
+    "destination": "Chicago",
+    "scheduledDeparture": "2024-07-12T11:00:00Z",
+    "status": "Scheduled"
+  },
+  {
+    "flightNumber": "UA505",
+    "origin": "Chicago",
+    "destination": "Denver",
+    "scheduledDeparture": "2024-07-12T12:00:00Z",
+    "status": "In-flight"
+  },
+  {
+    "flightNumber": "AF606",
+    "origin": "Paris",
+    "destination": "Tokyo",
+    "scheduledDeparture": "2024-07-12T13:00:00Z",
+    "status": "Delayed"
+  },
+  {
+    "flightNumber": "LH707",
+    "origin": "Frankfurt",
+    "destination": "Miami",
+    "scheduledDeparture": "2024-07-12T14:00:00Z",
+    "status": "Cancelled"
+  },
+  {
+    "flightNumber": "SQ808",
+    "origin": "Singapore",
+    "destination": "Sydney",
+    "scheduledDeparture": "2024-07-12T15:00:00Z",
+    "status": "Scheduled"
+  },
+  {
+    "flightNumber": "EK909",
+    "origin": "Dubai",
+    "destination": "New York",
+    "scheduledDeparture": "2024-07-12T16:00:00Z",
+    "status": "In-flight"
+  },
+  {
+    "flightNumber": "QF1010",
+    "origin": "Sydney",
+    "destination": "Los Angeles",
+    "scheduledDeparture": "2024-07-12T17:00:00Z",
+    "status": "Scheduled"
+  },
+  {
+    "flightNumber": "TK1111",
+    "origin": "Istanbul",
+    "destination": "Moscow",
+    "scheduledDeparture": "2024-07-12T18:00:00Z",
+    "status": "In-flight"
+  },
+  {
+    "flightNumber": "AC1212",
+    "origin": "Toronto",
+    "destination": "Vancouver",
+    "scheduledDeparture": "2024-07-12T19:00:00Z",
+    "status": "Delayed"
+  },
+  {
+    "flightNumber": "JL1313",
+    "origin": "Tokyo",
+    "destination": "Singapore",
+    "scheduledDeparture": "2024-07-12T20:00:00Z",
+    "status": "Scheduled"
+  },
+  {
+    "flightNumber": "MH1414",
+    "origin": "Kuala Lumpur",
+    "destination": "Hong Kong",
+    "scheduledDeparture": "2024-07-12T21:00:00Z",
+    "status": "In-flight"
+  },
+  {
+    "flightNumber": "AI1515",
+    "origin": "Mumbai",
+    "destination": "Dubai",
+    "scheduledDeparture": "2024-07-12T22:00:00Z",
+    "status": "Delayed"
+  }
+]
