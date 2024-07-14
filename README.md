@@ -3,6 +3,21 @@
 
 PIKKY Food App is a web application built using React and Vite, designed to manage flight statuses with administrative capabilities.
 
+
+## Features
+
+- Flight Management: View, filter, and search flights by flight number, origin, destination, airline, flight type, and status.
+
+- Authentication: Users need to log in to access certain features.
+- Admin Control: Admin users can change the status of flights.
+- Custom Hooks: Utilizes custom hooks for managing flight data and authentication.
+- Shadcn UI: Incorporates Shadcn UI components for a consistent and visually appealing interface.
+- Testing: Includes unit tests for components and hooks.
+
+## Authentication and Authorization
+Admin Access: To change the flight status, you need to be logged in with username "admin" and  password "admin" . Only authenticated admin users have the privilege to update flight statuses.
+
+
 ## Run Locally
 
 Clone the project
